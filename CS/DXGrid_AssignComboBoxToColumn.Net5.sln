@@ -1,6 +1,6 @@
 Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2012
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DXGrid_AssignComboBoxToColumn", "DXGrid_AssignComboBoxToColumn\DXGrid_AssignComboBoxToColumn.vbproj", "{ADBAC0DA-9012-4277-A791-E4AE9545A5C2}"
+# Visual Studio 16
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DXGrid_AssignComboBoxToColumn", "DXGrid_AssignComboBoxToColumn\DXGrid_AssignComboBoxToColumn.Net5.csproj", "{ADBAC0DA-9012-4277-A791-E4AE9545A5C2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
