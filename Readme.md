@@ -21,7 +21,7 @@ This example shows how to assign the combo box and spin editors to grid columns.
 * [Assign Editors to Cells](https://docs.devexpress.com/WPF/401011/controls-and-libraries/data-grid/data-editing-and-validation/modify-cell-values/assign-an-editor-to-a-cell)
 * [Edit Cell Values in UI](https://docs.devexpress.com/WPF/6606/controls-and-libraries/data-grid/data-editing-and-validation/modify-cell-values/inplace-editors)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-assign-combobox-editor-to-column&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=wpf-data-grid-assign-combobox-editor-to-column&~~~was_helpful=no)
 
